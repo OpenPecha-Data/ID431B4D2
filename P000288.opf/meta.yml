@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD137889
   title: མཉམ་མེད་ཇོ་བོ་རྗེ་དཔལ་ལྡན་ཨ་ཏི་ཤའི་རྣམ་པར་ཐར་པ་ཕྱོགས་བསྡུས་དད་པའི་འཇུག་ངོགས།
-  volume: ''
+  volume:
+    e8153f4dc5624c4b8d3409386b0229ed:
+      image_group_id: I2PD18897
+      title: Volume 1 of mnyam med jo bo rje dpal ldan a ti sha'i rnam par thar pa
+        phyogs bsdus dad pa'i 'jug ngogs/
+      volume_number: 1
+      total_pages: 188
   author: ''
+ebook_metadata:
+  title: མཉམ་མེད་ཇོ་བོ་རྗེ་དཔལ་ལྡན་ཨ་ཏི་ཤའི་རྣམ་པར་ཐར་པ་ཕྱོགས་བསྡུས་དད་པའི་འཇུག་ངོགས།
+  author: ''
+  sku: P000288
+  cover: cover.jpg
+  layers:
+  - pagination
